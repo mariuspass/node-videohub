@@ -1,0 +1,12 @@
+{
+	"name": "videohub",
+	"version": "0.1.0",
+	"description": "Control for BlackMagic videohub",
+	"author": "Sylvain Vriens <hello@sylvain.nl> (http://sylvain.nl/)",
+	"main": "./index",
+	"repository":
+	{
+		"type" : "git",
+		"url" : "https://github.com/sy1vain/node-videohub.git"
+	}
+}
