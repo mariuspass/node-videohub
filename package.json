@@ -1,10 +1,11 @@
 {
 	"name": "videohub",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"description": "Control for BlackMagic videohub",
 	"author": "Sylvain Vriens <hello@sylvain.nl> (http://sylvain.nl/)",
 	"main": "./index",
 	"dependencies": {
+		"async": "x",
 		"extend": "x"
 	},
 	"repository":
